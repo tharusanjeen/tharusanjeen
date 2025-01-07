@@ -1,19 +1,11 @@
-    Hi, I'm Sanjeen!
-    
-    Currently, I'm pursuing a Bachelor's in Computer Applications (BCA).
-    
-    I have a keen interest in web development, fascinated by the dynamic world of creating web applications and websites.
-    
-    Alongside web development, I'm passionate about penetration testing, delving into the world of cybersecurity to understand vulnerabilities and secure systems.
-    
-    Currently, I'm on a learning journey, diving deep into the realms of web development and Linux.
+Hi, I'm Sanjeen!
 
-    I'm honing my skills in various web development technologies like HTML, CSS, JavaScript, and frameworks like React and Django.
+I'm currently pursuing a Bachelor's in Computer Applications (BCA) and am passionate about web development.
 
-    Simultaneously, I'm immersing myself in the Linux environment, exploring its intricacies, and mastering its command-line interface.
+In web development, I specialize in building dynamic websites and web applications. I have a solid foundation in technologies like HTML, CSS, JavaScript, React, and PHP. Additionally, I am exploring full-stack development with tools such as Node.js, Express, and MySQL. I’m also gaining expertise in the Django framework for Python-based web applications.
 
-    My goal is to merge my passions for web development and penetration testing to contribute to creating secure and robust web applications in the future.
+Currently, I’m focused on advancing my knowledge in web development and the Linux environment. My goal is to create secure, high-performance web applications using the latest technologies.
 
-    I'm actively engaged in online communities and forums related to web development and cybersecurity, where I learn, share knowledge, and collaborate with like-minded individuals.
+I’m actively engaging in online communities related to web development, where I share knowledge, collaborate with others, and continue learning.
 
-    Always open to new opportunities and experiences that allow me to grow and expand my skills in the ever-evolving fields of technology.
+I'm always open to new opportunities that help me grow and expand my skills in this ever-evolving field.
